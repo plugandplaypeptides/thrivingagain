@@ -1,0 +1,21 @@
+{
+  "name": "thriving-again",
+  "version": "1.0.0",
+  "description": "Thriving Again Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plugandplaypeptides/thrivingagain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/plugandplaypeptides/thrivingagain/issues"
+  },
+  "homepage": "https://github.com/plugandplaypeptides/thrivingagain#readme"
+}
